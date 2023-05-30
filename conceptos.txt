@@ -11,3 +11,5 @@ SETTERS:nos permiten setear como el nombre de los datos ingresados es decir edit
 GETTER:nos permite ingresar datos 
 
 PUNTERO:nos ayuda a crear una direccion de memoria 
+
+programacion orientada a objetos
