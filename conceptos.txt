@@ -1,0 +1,13 @@
+CLASE:Es Una clase es un elemento de la programación orientada a objetos que actúa como una plantilla y va a definir las características y comportamientos de una entidad. 
+
+OBJETO:Es el resultado de la instancia de una clase 
+
+METODO:conjunto de instrucciones a las que se les asocia un nombre de modo que si se desea ejecutarlas, sólo basta o referenciarlas a través de dicho nombre en vez de tener que escribirlas. 
+
+ATRIBUTO:son las cualidades con las que cuenta el onjeto 
+
+SETTERS:nos permiten setear como el nombre de los datos ingresados es decir editar o cambiar  
+
+GETTER:nos permite ingresar datos 
+
+PUNTERO:nos ayuda a crear una direccion de memoria 
