@@ -1,0 +1,6 @@
+La declaración de la clase LibroCalificaciones (fi gura 3.1) contiene un método llamado mostrarMensaje
+
+(líneas 7-10), el cual muestra un mensaje en la pantalla. La línea 9 de la clase realiza el trabajo de mostrar el men-
+saje. Recuerde que una clase es como un plano de construcción; necesitamos crear un objeto de esta clase y llamar
+
+a su método para hacer que se ejecute la línea 9 y que muestre su mensaje.
